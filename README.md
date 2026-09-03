@@ -180,7 +180,7 @@ Les données préparées ont ensuite été exportées afin de construire des vue
 
 ## Compétences développées
 
-Ce projet m'a permis de développer et de mettre en œuvre mes compétences dans les domaines suivants :
+Ce projet m'a permis de développer et de mettre en œuvre mes compétences dans les domaines suivants.
 
 _Cadrage et conception :_
 

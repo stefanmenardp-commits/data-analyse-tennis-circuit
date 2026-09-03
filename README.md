@@ -108,7 +108,7 @@ Analyse des performances en match :
 
 ## Sources de données
 
-Les données principales proviennent du dépôt GitHub de Jeff Sackmann.
+Les données principales proviennent du [dépôt GitHub de Jeff Sackmann](https://github.com/JeffSackmann/tennis_MatchChartingProject).
 
 Elles comprennent notamment :
 
@@ -165,6 +165,8 @@ L'utilisation de sources ATP Tour et ITF Tennis aurait également pu compléter 
 Les graphiques ont d'abord été développés de manière statique dans Jupyter Notebook.
 
 Les données préparées ont ensuite été exportées afin de construire des vues interactives dans Tableau Public, puis plusieurs dashboards organisés par thématique.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bf9ec81e-adfb-4e69-b35a-56d2dbadb5d1" />
 
 ## Stack technique
 

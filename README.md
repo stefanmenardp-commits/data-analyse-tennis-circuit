@@ -170,13 +170,13 @@ Les données préparées ont ensuite été exportées afin de construire des vue
 
 | **Domaines** | **Technologies** |
 |---|---|
-| **Conception** | Blueprint, mockups |
-| **Langage** | Python |
-| **Packages** | Pandas, NumPy, Requests, BeautifulSoup, Matplotlib, Seaborn, OpenPyXL |
-| **Collecte de données** | Fichiers CSV d'un GitHub, scraping Wikipédia, Sites spécialisés |
-| **Outil de développement** | Jupyter Notebook |
-| **Package - Visualisation statique** | Matplotlib, Seaborn |
-| **Visualisation dynamique** | Tableau Public |
+| **Conception** | `Blueprint`, `mockups` |
+| **Langage** | `Python` |
+| **Packages** | `Pandas`, `NumPy`, `Requests`, `BeautifulSoup`, `Matplotlib`, `Seaborn`, `OpenPyXL` |
+| **Collecte de données** | `Fichiers CSV d'un GitHub`, `scraping Wikipédia`, `Sites spécialisés` |
+| **Outil de développement** | `Jupyter Notebook` |
+| **Package - Visualisation statique** | `Matplotlib`, `Seaborn` |
+| **Visualisation dynamique** | `Tableau Public` |
 
 ## Compétences développées
 

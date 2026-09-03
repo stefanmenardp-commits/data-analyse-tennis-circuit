@@ -190,7 +190,7 @@ _Cadrage et conception :_
 - conception de mockups
 - définition d’indicateurs clés et d’axes d’analyse
 
-_Traitement de la donnée : _
+_Traitement de la donnée :_
 
 - recherche de sources de données adaptées
 - nettoyage des données
@@ -198,7 +198,7 @@ _Traitement de la donnée : _
 - préparation de données pour la visualisation
 - création des visualisation statique sous Python et dynamique sous Tableau Public
 
-_Documentation et gestion de projet : _
+_Documentation et gestion de projet :_
 
 - documentation des sources et des traitements
 - explication des choix méthodologiques

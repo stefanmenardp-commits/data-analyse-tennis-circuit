@@ -25,7 +25,7 @@ Lorsque le sujet a été trouvé, il a fallu effectuer la récupération de donn
 
 L'analyse porte à la fois sur les joueurs, les tournois, les surfaces, les classements, les nationalités et les statistiques de matchs.
 
---
+---
 
 ## Problématique
 
@@ -37,6 +37,8 @@ Comment le tennis professionnel masculin a-t-il évolué au cours des dernières
 - les victoires et les nationalités représentées
 - les statistiques individuelles des joueurs
 
+---
+
 ## Objectifs
 
 - construire un état des lieux historique du tennis professionnel masculin
@@ -46,6 +48,8 @@ Comment le tennis professionnel masculin a-t-il évolué au cours des dernières
 - étudier les performances statistiques en match
 - créer des visualisations statiques et interactives
 
+---
+
 ## Public cible
 
 Le projet s'adresse principalement :
@@ -54,6 +58,8 @@ Le projet s'adresse principalement :
 - aux journalistes spécialisés
 - aux passionnés de tennis
 - aux personnes souhaitant explorer l'histoire récente du tennis professionnel
+
+---
 
 ## Axes d'analyse
 
@@ -106,6 +112,8 @@ Analyse des performances en match :
 - balles de break
 - performances au service et au retour
 
+---
+
 ## Sources de données
 
 Les données principales proviennent du [dépôt GitHub de Jeff Sackmann](https://github.com/JeffSackmann/tennis_MatchChartingProject).
@@ -117,6 +125,8 @@ Elles comprennent notamment :
 - des fichiers de classements par période
 
 Des sources complémentaires ont également été utilisées pour enrichir les informations manquantes.
+
+---
 
 ## Préparation des données
 
@@ -132,6 +142,8 @@ Les principales étapes sont :
 8. Enrichissement des données joueurs
 9. Préparation des tables finales pour l'analyse sous forme de graphique
 
+---
+
 ## Gestion des valeurs manquantes
 
 Les données historiques comportent davantage de valeurs manquantes dans les périodes anciennes, notamment avant 2009.
@@ -144,6 +156,8 @@ Les méthodes utilisées sont :
 - enrichissement automatique - scraping de Wikipédia
 - filtrage des joueurs n'ayant pas participé à la période étudiée
 - exclusion du reste des valeurs manquantes lorsque leur remplacement n'est pas suffisamment fiable ou possible
+
+---
 
 ## Enrichissement des données
 
@@ -160,6 +174,8 @@ Les étapes comprennent :
 
 L'utilisation de sources ATP Tour et ITF Tennis aurait également pu compléter certaines informations. Cependant, leur automatisation aurait nécessité une prise en main de Selenium, ce qui n'a pas pu être réalisé dans le temps disponible.
 
+---
+
 ## Visualisation
 
 Les graphiques ont d'abord été développés de manière statique dans Jupyter Notebook.
@@ -167,6 +183,8 @@ Les graphiques ont d'abord été développés de manière statique dans Jupyter 
 Les données préparées ont ensuite été exportées afin de construire des vues interactives dans Tableau Public, puis plusieurs dashboards organisés par thématique.
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bf9ec81e-adfb-4e69-b35a-56d2dbadb5d1" />
+
+---
 
 ## Stack technique
 
@@ -179,6 +197,8 @@ Les données préparées ont ensuite été exportées afin de construire des vue
 | **Outil de développement** | `Jupyter Notebook` |
 | **Package - Visualisation statique** | `Matplotlib`, `Seaborn` |
 | **Visualisation dynamique** | `Tableau Public` |
+
+---
 
 ## Compétences développées
 

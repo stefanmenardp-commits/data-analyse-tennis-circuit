@@ -128,7 +128,9 @@ Des sources complémentaires ont également été utilisées pour enrichir les i
 
 ---
 
-## Préparation des données
+## Méthodologie
+
+### 1. Préparation des données
 
 Les principales étapes sont :
 
@@ -142,9 +144,7 @@ Les principales étapes sont :
 8. Enrichissement des données joueurs
 9. Préparation des tables finales pour l'analyse sous forme de graphique
 
----
-
-## Gestion des valeurs manquantes
+### 2. Gestion des valeurs manquantes
 
 Les données historiques comportent davantage de valeurs manquantes dans les périodes anciennes, notamment avant 2009.
 
@@ -157,9 +157,7 @@ Les méthodes utilisées sont :
 - filtrage des joueurs n'ayant pas participé à la période étudiée
 - exclusion du reste des valeurs manquantes lorsque leur remplacement n'est pas suffisamment fiable ou possible
 
----
-
-## Enrichissement des données
+## 3. Enrichissement des données
 
 Un script Python utilisant notamment `requests` et `BeautifulSoup` a été développé afin de récupérer des informations complémentaires sur Wikipédia.
 
@@ -174,9 +172,7 @@ Les étapes comprennent :
 
 L'utilisation de sources ATP Tour et ITF Tennis aurait également pu compléter certaines informations. Cependant, leur automatisation aurait nécessité une prise en main de Selenium, ce qui n'a pas pu être réalisé dans le temps disponible.
 
----
-
-## Visualisation
+## 4. Visualisation
 
 Les graphiques ont d'abord été développés de manière statique dans Jupyter Notebook.
 

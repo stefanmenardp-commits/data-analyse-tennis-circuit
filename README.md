@@ -10,10 +10,7 @@ Ce projet propose un état des lieux du tennis professionnel masculin en simple 
 - [Public cible](#public-cible)
 - [Axes d'analyse](#axes-d'analyse)
 - [Sources de données](#sources-de-données)
-- [Préparation des données](#préparation-des-données)
-- [Gestion des valeurs manquantes](#gestion-des-valeurs-manquantes)
-- [Enrichissement des données](#enrichissement-des-données)
-- [Visualisation](#visualisation)
+- [Méthodologie](#méthodologie)
 - [Stack technique](#stack-technique)
 - [Compétences développées](#compétences-développées)
 

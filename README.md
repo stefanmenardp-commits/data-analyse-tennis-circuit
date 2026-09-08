@@ -219,3 +219,5 @@ _Documentation et gestion de projet :_
 - explication des choix méthodologiques
 - vulgarisation des analyses techniques
 - organisation d’un projet data de bout en bout
+
+Pour ce qui est des outils, j'ai développé des compétences dans ceux qui sont présents dans la partie stack technique.
